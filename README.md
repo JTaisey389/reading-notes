@@ -21,5 +21,5 @@ What Growth Mindset Means to me?
 > Begin with the end in mind.
 
 ### Table of Contents
-- [Code 102 Markdown References](markdown.md)
+- [Code 102 Markdown References](class102.md)
 - [Coders Computer](coderscomputer.md)
