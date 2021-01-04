@@ -16,3 +16,6 @@ What Growth Mindset Means to me?
 ##### 1. Critiscism is a professional way to show disagreement. Don't take criticism as the end all for the work that you have done, collaborate with those who share criticism and take it as a growth oportunity.
 ##### 2. It's easy to say I give up when your at the bottom of the pit, more often than not someone is climbing out of the pit and would be glad to offer help.
 ##### 3. Change is essential to growth. I use my resume as a refrence because the information on my resume is pretty consistent, I may feel the need to update the design on occasion. 
+
+### Quotes
+##### > Begin with the end in mind
