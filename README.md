@@ -21,5 +21,5 @@ In the words of Stephen Covey:
 > Begin with the end in mind.
 
 ### Table of Contents
-[Code 102 Markdown References](markdown.md)
-[Coders Computer](coderscomputer.md)
+- [Code 102 Markdown References](markdown.md)
+- [Coders Computer](coderscomputer.md)
