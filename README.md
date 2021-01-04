@@ -17,5 +17,5 @@ What Growth Mindset Means to me?
 ##### 2. It's easy to say I give up when your at the bottom of the pit, more often than not someone is climbing out of the pit and would be glad to offer help.
 ##### 3. Change is essential to growth. I use my resume as a refrence because the information on my resume is pretty consistent, I may feel the need to update the design on occasion. 
 
-### Quotes
+### Quotes:
 ##### >Begin with the end in mind
