@@ -18,4 +18,5 @@ What Growth Mindset Means to me?
 ##### 3. Change is essential to growth. I use my resume as a refrence because the information on my resume is pretty consistent, I may feel the need to update the design on occasion. 
 
 ### Quotes:
-##### > Begin with the end in mind.
+##### > Begin with 
+##### > the end in mind.
