@@ -19,3 +19,6 @@ What Growth Mindset Means to me?
 
 In the words of Stephen Covey:
 > Begin with the end in mind.
+
+### Table of Contents
+[Markdown Reading](markdown.md)
