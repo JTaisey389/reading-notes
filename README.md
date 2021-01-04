@@ -22,3 +22,4 @@ In the words of Stephen Covey:
 
 ### Table of Contents
 [Code 102 Markdown References](markdown.md)
+[Coders Computer](coderscomputer.md)
