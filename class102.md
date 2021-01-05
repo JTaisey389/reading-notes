@@ -21,16 +21,18 @@ This is an unordered list
 - Feed the venus fly trap
 - Ice cubes for Orchid
 
+This is an unordered list
++ Chase the squirrel 
++ Check on the pumpkins
++ Eggplant 
+
 ### This is how you create an ordered list
-##### Numerical list can easily be created in one of two ways. Either by putting a number before, or 
+##### Numerical list can easily be created by typing in number, and a description.  
 This is an ordered list
 1. The sky is blue
 2. The green waves in the wind
 3. I am on an island
 
-One.
-Two.
-Three.
 
 ### This feature is both an H2 header, and a table of contents refrence
 The table of contents aslo feature a link to a md.
