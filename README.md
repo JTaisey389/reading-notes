@@ -1,6 +1,8 @@
 # Author
 Jason Taisey
 
+## Second Level Header Text
+
 ## Description
 This website is a collection of the notes and findings for the Code 102 Class.
 
