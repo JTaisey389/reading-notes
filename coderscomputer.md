@@ -12,6 +12,15 @@ I am all new to this enviroment of writing code and choosing the optimum text ed
 
 - Extensions: Extensions are the plugins for your text editor, you can add addtional functionality to you code. This feature could allow a user to save the basic framework of a code as so the user doesn't have to create new code. 
 
+### Third Party Applications
+Here is a list of mac specific applications that I may use depending on the software capabilities. 
+-BBEdit
+
+-Visual Studio Code
+
+-Atom
+
+-Brackets
 
 
 ### Various Commands
