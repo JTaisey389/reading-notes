@@ -6,7 +6,11 @@ I am all new to this enviroment of writing code and choosing the optimum text ed
 ### Features of a text editor
 - Code completion: Essentially suggests the code that you are trying to write, and also is a wonderfull tool to autocorrect. If you make a typo on your code, that could completely throw off everything in your website. I would full aniticipate this code completion would increase the amount of productivity.
 
-- Syntax Highlighting: This I interpret as a way to read the individual lines of code that you have created. If you are thousands of lines deep into a code, having a color coding system helps you identify errors faster. 
+- Syntax Highlighting: This I interpret as a way to read the individual lines of code that you have created. If you are thousands of lines deep into a code, having a color coding system helps you identify errors faster.
+
+- Themes: Just as it says you can change the "theme of how your software displays the code you've written. It's suggested to find something that suits your eyes to minimize strain. 
+
+- Extensions: Extensions are the plugins for your text editor, you can add addtional functionality to you code. This feature could allow a user to save the basic framework of a code as so the user doesn't have to create new code. 
 
 
 
