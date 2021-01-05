@@ -1,12 +1,17 @@
 # What is Markdown?
 ###### Markdown provides a way to style text on the web. I can control the display of the information projected on the screen. This line is an example of a header at level 6 which is small. Comparatively H1 would be just one hashtag, and be quite large.
 
+### Examples of a header
+###### Each of the header has a corisponding number of hastags to determine the height. 
 # This is an H1
 
 ## This is an H2
 
 ### This is an H2
 
+
+### *Example of Italisizing text*
+###### The asterisk is used to italizise text and give it some flair. Additionally you can *italisize* specific words in a sentace for additional emphasis.
 *This is how you italisize*
 
 This is an unordered list
