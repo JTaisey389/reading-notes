@@ -14,6 +14,8 @@
 ###### The asterisk is used to italizise text and give it some flair. Additionally you can *italisize* specific words in a sentace for additional emphasis.
 *This is how you italisize*
 
+### This is how you create an unordered list
+##### Undordered lists are a great way to organize information within a subject or topic. There are multiple symbols that can be used for a list such as: -, +, *. 
 This is an unordered list
 - Water plants
 - Feed the venus fly tryp
