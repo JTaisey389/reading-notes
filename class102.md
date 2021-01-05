@@ -23,7 +23,7 @@ This is an ordered list
 - [Coders Computer](coderscomputer.md)
 
 ### If I want to refrence and image
-![Image_Of_Rainbow_Swirl](https://hdfreewallpaper.net/wp-content/uploads/2016/02/random-tumblr-hd-free-wallpapers.jpg)
+![Your_Image_Of_Choice](WebsiteURL_of_the_image)
 
 # What is Markdown?
 ###### Markdown provides a way to style text on the web. I can control the display of the information projected on the screen. This line is an example of a header at level 6 which is small. Comparatively H1 would be just one hashtag, and be quite large.
