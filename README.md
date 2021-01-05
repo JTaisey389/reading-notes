@@ -1,8 +1,6 @@
 # Author
 Jason Taisey
 
-Some verbiage with *very exciting* language in it!
-
 ## Description
 This website is a collection of the notes and findings for the Code 102 Class.
 
