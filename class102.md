@@ -22,5 +22,8 @@ This is an ordered list
 - [Code_102_Refrence_Markdown](class102.md)
 - [Coders Computer](coderscomputer.md)
 
+# What is Markdown?
+##### Markdown provides a way to style text on the web. I can control the display of the information projected on the screen.
+
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
 
