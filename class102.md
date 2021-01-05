@@ -1,8 +1,8 @@
 # What is Markdown?
-###### Markdown provides a way to style text on the web. I can control the display of the information projected on the screen. This line is an example of a header at level 6 which is small. Comparatively H1 would be just one hashtag, and be quite large.
+###### Markdown provides a way to style text on the web. I can control the display of the information projected on the screen. This line is an example of a header at level 6 which is small. Comparatively, H1 would be just one hashtag and be quite large.
 
 ### Examples of a header
-###### Each of the header has a corisponding number of hastags to determine the height. 
+###### Each of the headers has a corresponding number of hashtags to determine the height. 
 # This is an H1
 
 ## This is an H2
@@ -11,33 +11,34 @@
 
 
 ### *Example of Italisizing text*
-###### The asterisk is used to italizise text and give it some flair. Additionally you can *italisize* specific words in a sentace for additional emphasis.
-*This is how you italisize*
+###### The asterisk is used to italicize text and give it some flair. Additionally, you can italicize specific words in a sentence for additional emphasis.
+*This is how you italicize*
 
 ### This is how you create an unordered list
-##### Undordered lists are a great way to organize information within a subject or topic. There are multiple symbols that can be used for a list such as: -, +, *. 
+##### Unordered lists are a great way to organize information within a subject or topic. There are multiple symbols that can be used for a list such as -, +, *.
+
 This is an unordered list
 - Water plants
 - Feed the venus fly trap
 - Ice cubes for Orchid
 
 ### This is how you create an ordered list
-##### Numerical list can easily be created by typing in number, and a description.  
+##### A numerical list can easily be created by typing in numbers and a description.
 This is an ordered list
 1. The sky is blue
 2. The green waves in the wind
 3. I am on an island
 
 
-### This feature is both an H2 header, and a table of contents refrence
-The table of contents aslo feature a link to a md.
+### This feature is both an H2 header, a table of contents reference, and a link to a md. 
+The table of contents also features a link to an MD. 
 [Name_Of Your_Item_To_Refrence] (name_of_your_md)
 
 - [Code_102_Refrence_Markdown](class102.md)
 - [Coders Computer](coderscomputer.md)
 
-### If I want to refrence and image
-For image refrences you must have the exlamation point at the begining. 
+### If I want to reference an image
+For image references, you must have the exclamation point at the beginning.
 
 ![Your_Image_Of_Choice]
 (WebsiteURL_of_the_image)
