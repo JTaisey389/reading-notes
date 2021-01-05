@@ -22,6 +22,9 @@ What does the Growth Mindset mean to me?
 ### In the words of Stephen Covey:
 > Begin with the end in mind.
 
+### If I want to refrence and image
+![Image_Of_Rainbow_Swirl](https://hdfreewallpaper.net/wp-content/uploads/2016/02/random-tumblr-hd-free-wallpapers.jpg)
+
 ### Table of Contents
 - [Code_102_Refrence_Markdown](class102.md)
 - [Coders Computer](coderscomputer.md)
