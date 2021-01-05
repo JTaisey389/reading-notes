@@ -1,4 +1,5 @@
-Put notes in here from the reading. 
+# What is Markdown?
+###### Markdown provides a way to style text on the web. I can control the display of the information projected on the screen. This line is an example of a header at level 6 which is small. Comparatively H1 would be just one hashtag, and be quite large.
 
 # This is an H1
 
@@ -22,14 +23,14 @@ This is an ordered list
 - [Code_102_Refrence_Markdown](class102.md)
 - [Coders Computer](coderscomputer.md)
 
+The table of contents aslo feature a link to a md.
+[Name_Of Your_Item_To_Refrence] (name_of_your_md)
+
 ### If I want to refrence and image
 ![Your_Image_Of_Choice]
 (WebsiteURL_of_the_image)
 
 For image refrences you must have the exlamation point at the begining. 
-
-# What is Markdown?
-###### Markdown provides a way to style text on the web. I can control the display of the information projected on the screen. This line is an example of a header at level 6 which is small. Comparatively H1 would be just one hashtag, and be quite large.
 
 
 
