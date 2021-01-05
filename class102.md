@@ -28,9 +28,9 @@ This is an ordered list
 2. The green waves in the wind
 3. I am on an island
 
-One
-Two
-Three
+One.
+Two.
+Three.
 
 ### This feature is both an H2 header, and a table of contents refrence
 The table of contents aslo feature a link to a md.
