@@ -14,13 +14,13 @@ I am all new to this enviroment of writing code and choosing the optimum text ed
 
 ### Third Party Applications
 Here is a list of mac specific applications that I may use depending on the software capabilities. 
--BBEdit
+- BBEdit
 
--Visual Studio Code
+- Visual Studio Code
 
--Atom
+- Atom
 
--Brackets
+- Brackets
 
 
 ### Various Commands
