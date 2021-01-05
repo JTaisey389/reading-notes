@@ -7,8 +7,7 @@
 
 ### This is an H2
 
-* Text example to italisize *
-<br> *This is how you italisize*
+*This is how you italisize*
 
 This is an unordered list
 - Water plants
