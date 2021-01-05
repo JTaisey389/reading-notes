@@ -21,11 +21,6 @@ This is an unordered list
 - Feed the venus fly trap
 - Ice cubes for Orchid
 
-This is an unordered list
-+ Chase the squirrel 
-+ Check on the pumpkins
-+ Eggplant 
-
 ### This is how you create an ordered list
 ##### Numerical list can easily be created by typing in number, and a description.  
 This is an ordered list
