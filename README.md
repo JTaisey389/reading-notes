@@ -25,3 +25,5 @@ What does the Growth Mindset mean to me?
 ### Table of Contents
 - [Code_102_Refrence_Markdown](class102.md)
 - [Coders Computer](coderscomputer.md)
+
+[GitHub_Profile](https://github.com/JTaisey389)
