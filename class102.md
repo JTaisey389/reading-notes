@@ -11,6 +11,11 @@ This is an unordered list
 - Feed the venus fly tryp
 - Ice cubes for Orchid
 
-### Table of Contents
+This is an ordered list
+1. The sky is blue
+2. The green waves in the wind
+3. I am on an island
+
+### This feater is both an H2 header, and a table of contents refrence
 - [Code_102_Refrence_Markdown](class102.md)
 - [Coders Computer](coderscomputer.md)
