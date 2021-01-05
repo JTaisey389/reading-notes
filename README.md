@@ -26,5 +26,4 @@ What does the Growth Mindset mean to me?
 - [Code_102_Refrence_Markdown](class102.md)
 - [Coders Computer](coderscomputer.md)
 
-
-
+Some verbiage with *very exciting* language in it. 
