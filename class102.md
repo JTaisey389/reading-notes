@@ -4,7 +4,9 @@ Put notes in here from the reading.
 
 ## This is an H2
 
-### This is an H2 
+### This is an H2
+
+*This is how you italisize*
 
 This is an unordered list
 - Water plants
