@@ -44,5 +44,9 @@ For image references, you must have the exclamation point at the beginning.
 ![Your_Image_Of_Choice]
 (WebsiteURL_of_the_image)
 
+### Table of Contents
+- [Coders_Computer Markdown](coderscomputer.md)
+- [Revisions_In_The_Cloud](RevisionsInTheCloud.md)
+
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
 

@@ -21,25 +21,32 @@ With Git there are various state that Git can reside.
     - CD 
     - CD - (CD space dash)
     - To get back you do cd .. 
+
 - Mkdir - Make directive
+
 - Touch - Creates a file
+
 - Pwd - Shows the current working directory
+
 - RM - Remove
 
 - cp - Copy command
     - cp review.md test.md
+
 - RM - Remove
-- / Forward slash designates a file within a folder
+
+/ Forward slash designates a file within a folder
+
 - mv - Move command: 
-    -   Move command serves two purposes. You can rename a file and you can move a file
-    - Example: mv test. Md test2. Md
-    - The command above renames a files
-    - Example of moving a file: mv test2.md test/test.md
-- RM - Remove File
+- Move command serves two purposes. You can rename a file and you can move a file
+- Example: mv test. Md test2. Md
+- The command above renames a files
+- Example of moving a file: mv test2.md test/test.md
+
+RM command: 
+- RM stands for remove file
 
 ### Table of Contents
 - [Code_102_Refrence_Markdown](class102.md)
-- [Coders_Computer_Markdown](coderscomputer.md)
-
-[<===_Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
-
+- [Coders_Computer Markdown](coderscomputer.md)
+- [Webpages_Structures_and_Charicteristics](webpagestructures.md)
