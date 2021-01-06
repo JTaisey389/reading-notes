@@ -54,10 +54,10 @@ For a long time, users would have to use <div> elements to group related items t
 <articles>
 <aside>
 <sections>
-<figures><figcaption>
-Sectioning Elements <div>
+<figures ><figcaption >
+Sectioning Elements <div >
 Heading groups <hgroup>
-Navigation <nav>
+Navigation <nav></nav>
 
 ### With a website you have three elements:
 The body contains all of the content 
