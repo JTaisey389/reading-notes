@@ -35,5 +35,6 @@ Here is a list of mac specific applications that I may use depending on the soft
 ### Table of Contents
 - [Code_102_Refrence_Markdown](class102.md)
 - [Revisions_In_The_Cloud](RevisionsInTheCloud.md)
+- [Webpages_Structures_and_Charicteristics](webpagestructures.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
