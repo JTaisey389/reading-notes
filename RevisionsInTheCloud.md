@@ -1,4 +1,4 @@
-# Notes from reading
+# Revisions in the cloud
 
 ### Version Control
 Version control allows a user to look back at changes made to a file. With a traditional file setup, you save a new file when you make a change to your project. That leads to multiple files being created and that can make it difficult to go back and locate previous changes made to the project.
