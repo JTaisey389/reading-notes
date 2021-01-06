@@ -50,11 +50,18 @@ For a long time, users would have to use <div> elements to group related items t
 
 ### Various Inputs:
 < Header>
+<br>
 < Footer>
+<br>
 < articles>
+<br>
 < aside>
+<br>
 < sections>
-< figures >< figcaption >
+<br>
+< figures> 
+<br> 
+< figcaption>
 Sectioning Elements < div>
 Heading groups < hgroup>
 Navigation < nav>

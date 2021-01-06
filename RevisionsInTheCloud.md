@@ -1,26 +1,26 @@
 # Notes from reading
 
 ### Version Control
-Version control allows a user to look back at changes made to a file. With a traditional file setup you save a new file when you make a change to your project. That leads to multiple files being created and that can make it difficult to go back and locate previous changes made to the project.
+Version control allows a user to look back at changes made to a file. With a traditional file setup, you save a new file when you make a change to your project. That leads to multiple files being created and that can make it difficult to go back and locate previous changes made to the project.
 
 ### What is git?
-Git stores data in a file system that consist's of snapshots in time. Every time you save a changed version of your project git creates a snapshot of the file and allows the user to refrence it as needed. The technical term for a snapshot is call a commit, which is data stored in a local database.
+Git stores data in a file system that consist's of snapshots in time. Every time you save a changed version of your project git creates a snapshot of the file and allows the user to reference it as needed. The technical term for a snapshot is called a commit, which is data stored in a local database.
 
-At the whole Git is Distributed Version Control System (DVCS). With Git you can have multiple programers working in teams on the same mirrored repositories. This allows for a colaborative effort between programer and promotes simltanious workflows. 
+On the whole, Git is a Distributed Version Control System (DVCS). With Git you can have multiple programmers working in teams on the same mirrored repositories. This allows for a collaborative effort between the programmers and promotes simultaneous workflows. 
 
-With Git there are various state that Git can reside.
-- Commited: Data is secured in a local database.
-- Modified: The file has been changes but not committed to the database.
-- Stages: Flagged a file's change which is commited in the next snapshot.
+With Git there are various states that Git can reside.
+- Committed: Data is secured in a local database.
+- Modified: The file has been changed but not committed to the database.
+- Stages: Flagged a file's change which is committed in the next snapshot.
 
 ### Terminal Commands that will interact with Git
 - Ls - List Command
 - Cd - Change directory
-    - Cd .. - Moves you back in the file structure
-    - Cd ~ Move back to the beginning of the file structure 
-    - CD 
-    - CD - (CD space dash)
-    - To get back you do cd .. 
+ - Cd .. - Moves you back in the file structure
+ - Cd ~ Move back to the beginning of the file structure 
+ - CD 
+ - CD - (CD space dash)
+ - To get back you do cd .. 
 
 - Mkdir - Make directive
 
@@ -31,7 +31,7 @@ With Git there are various state that Git can reside.
 - RM - Remove
 
 - cp - Copy command
-    - cp review.md test.md
+ - cp review.md test.md
 
 - RM - Remove
 

@@ -11,11 +11,11 @@
 
 
 ### *Example of Italisizing text*
-###### The asterisk is used to italicize text and give it some flair. Additionally, you can italicize specific words in a sentence for additional emphasis.
+###### The asterisk is used to italicize text and give it some flair. Additionally, you can italicize specific words in a sentence for additional emphasis.
 *This is how you italicize*
 
 ### This is how you create an unordered list
-##### Unordered lists are a great way to organize information within a subject or topic. There are multiple symbols that can be used for a list such as -, +, *.
+##### Unordered lists are a great way to organize information within a subject or topic. Multiple symbols can be used for a list such as -, +, *.
 
 This is an unordered list
 - Water plants
@@ -30,7 +30,7 @@ This is an ordered list
 3. I am on an island
 
 
-### This feature is both an H2 header, a table of contents reference, and a link to a md. 
+### This feature is both an H2 header, a table of contents reference, and a link to a MD. 
 The table of contents also features a link to an MD. 
 [Name_Of Your_Item_To_Refrence] (name_of_your_md)
 
@@ -50,4 +50,3 @@ For image references, you must have the exclamation point at the beginning.
 - [Webpages_Structures_and_Charicteristics](webpagestructures.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
-
