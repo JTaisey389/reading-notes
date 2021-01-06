@@ -49,15 +49,15 @@ C.R.A.P
 For a long time, users would have to use <div> elements to group related items together. HTML5 created a new set of elements that allow you to divide up the parts of a page. 
 
 ### Various Inputs:
-<Header>
-<Footer>
-<articles>
-<aside>
-<sections>
-<figures ><figcaption >
-Sectioning Elements <div >
-Heading groups <hgroup>
-Navigation <nav></nav>
+< Header>
+< Footer>
+< articles>
+< aside>
+< sections>
+< figures >< figcaption >
+Sectioning Elements < div>
+Heading groups < hgroup>
+Navigation < nav>
 
 ### With a website you have three elements:
 The body contains all of the content 
