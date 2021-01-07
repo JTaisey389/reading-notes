@@ -48,5 +48,6 @@ For image references, you must have the exclamation point at the beginning.
 - [Coders_Computer Markdown](coderscomputer.md)
 - [Revisions_In_The_Cloud](RevisionsInTheCloud.md)
 - [Webpages_Structures_and_Charicteristics](webpagestructures.md)
+- [Computers_Architect](computerarchitect.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)

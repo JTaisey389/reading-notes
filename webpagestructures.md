@@ -147,5 +147,6 @@ The body contains all of the content 
 - [Code_102_Refrence_Markdown](class102.md)
 - [Coders_Computer Markdown](coderscomputer.md)
 - [Revisions_In_The_Cloud](RevisionsInTheCloud.md)
+- [Computers_Architect](computerarchitect.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)

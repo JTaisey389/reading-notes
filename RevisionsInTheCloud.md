@@ -50,5 +50,6 @@ RM command:
 - [Code_102_Refrence_Markdown](class102.md)
 - [Coders_Computer Markdown](coderscomputer.md)
 - [Webpages_Structures_and_Charicteristics](webpagestructures.md)
+- [Computers_Architect](computerarchitect.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
