@@ -50,8 +50,12 @@ Within circuits there are logic gates:
  3. Not
  4. Nor
  5. Or
- 6. Xorgit 
+ 6. Xor
 
+For example you can have a curcuit take in two bits, this is called an adder.
+
+### CPU, Memory, Input & Output
+When you press a letter on your keyboard, the keyboard converts the letter into a binary number. From there a CPU calculates how to display the letter, and the CPU pulls from the memory on how to draw the letter.
 
 ### Table of Contents
 - [Code_102_Refrence_Markdown](class102.md)
