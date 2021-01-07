@@ -28,4 +28,5 @@ What does the Growth Mindset mean to me?
 - [Coders_Computer Markdown](coderscomputer.md)
 - [Revisions_In_The_Cloud](RevisionsInTheCloud.md)
 - [Webpages_Structures_and_Charicteristics](webpagestructures.md)
-- [Computers_Architect](computerarchitect.md)
+- [Computers_Architect](ComputerArchitect.md)
+- [Java_Interactions](JavaInteractive.md)
