@@ -14,13 +14,13 @@ What does the Growth Mindset mean to me?
 
 ### *Reminders to keep in a growth mindset:*
 ###### 1. Criticism is a professional way to show disagreement. Don't take criticism as the end-all for the work that you have done, collaborate with those who share criticism, and take it as a growth opportunity.
-###### 2. It's easy to say I give up when your at the bottom of the pit, more often than not someone is climbing out of the pit and would be glad to offer help.
-###### 3. Change is essential to growth. I use my resume as a refrence because the information on my resume is pretty consistent, I may feel the need to update the design on occasion. 
+###### 2. It's easy to say I give up when you're at the bottom of the pit, more often than not someone is climbing out of the pit and would be glad to offer help.
+###### 3. Change is essential to growth. I use my resume as a reference because the information on my resume is pretty consistent, I may feel the need to update the design on occasion. 
 
 ### In the words of Stephen Covey:
 > Begin with the end in mind.
 
-### If I want to refrence and image
+### If I want to reference and image
 ![Image_Of_Rainbow_Swirl](https://hdfreewallpaper.net/wp-content/uploads/2016/02/random-tumblr-hd-free-wallpapers.jpg)
 
 ### Table of Contents
@@ -28,4 +28,3 @@ What does the Growth Mindset mean to me?
 - [Coders_Computer Markdown](coderscomputer.md)
 - [Revisions_In_The_Cloud](RevisionsInTheCloud.md)
 - [Webpages_Structures_and_Charicteristics](webpagestructures.md)
-
