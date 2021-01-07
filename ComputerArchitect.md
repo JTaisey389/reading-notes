@@ -45,12 +45,12 @@ Dog for example in binary would be:
 ### Circuits and Logic
 To process the information that is input, to do this small components called circuts can modify and process information.
 Within circuits there are logic gates:
-    1. And
-    2. Nand
-    3. Not
-    4. Nor
-    5. Or
-    6. Xor
+ 1. And
+ 2. Nand
+ 3. Not
+ 4. Nor
+ 5. Or
+ 6. Xorgit 
 
 
 ### Table of Contents
