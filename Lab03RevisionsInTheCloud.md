@@ -47,9 +47,11 @@ RM command:
 - RM stands for remove file
 
 ### Table of Contents
+- [Lab_01_Learning](Lab01Learning.md)
 - [Lab_02_Coders_Computer](Lab02CodersComputer.md)
 - [Lab_05_Web_Pages_And_Structures](Lab05WebPagesAndStructures.md)
 - [Lab_06_Activate_Webpages_With_Java](Lab06ActivateWebPageWithJava.md)
 - [Lab_06B_Computers_Architect](Lab06BComputersArchitect.md)
+- [Lab_07_Java_Operators_Loops](Lab07JavaOperatorsLoops.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)

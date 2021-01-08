@@ -144,6 +144,7 @@ The body contains all of the content 
 * ÷ Divide Sign
 
 ### Table of Contents
+- [Lab_01_Learning](Lab01Learning.md)
 - [Lab_02_Coders_Computer](Lab02CodersComputer.md)
 - [Lab_03_Revisions_In_The_Cloud](Lab03RevisionsInTheCloud.md)
 - [Lab_06_Activate_Webpages_With_Java](Lab06ActivateWebPageWithJava.md)

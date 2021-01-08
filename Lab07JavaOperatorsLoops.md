@@ -48,6 +48,7 @@ var i = l; // set counter to 1
 	document.getElementById('answer').innerHTML = msq;
 
 ### Table of Contents
+- [Lab_01_Learning](Lab01Learning.md)
 - [Lab_02_Coders_Computer](Lab02CodersComputer.md)
 - [Lab_03_Revisions_In_The_Cloud](Lab03RevisionsInTheCloud.md)
 - [Lab_05_Web_Pages_And_Structures](Lab05WebPagesAndStructures.md)

@@ -60,6 +60,7 @@ When you press a letter on your keyboard, the keyboard converts the letter into 
 When you look into a computer you see the hardware that makes up the computer. Within the hardware, you have the software that runs the CPU or the Central Processing Unit. Command inputs provide a CPU a directive on what it should. CPU's pull from the memory a set of parameters that are pre-installed to run the files to make the CPU work. Each computer has an Operating system that interacts with the various computer systems. 
 
 ### Table of Contents
+- [Lab_01_Learning](Lab01Learning.md)
 - [Lab_02_Coders_Computer](Lab02CodersComputer.md)
 - [Lab_03_Revisions_In_The_Cloud](Lab03RevisionsInTheCloud.md)
 - [Lab_05_Web_Pages_And_Structures](Lab05WebPagesAndStructures.md)
