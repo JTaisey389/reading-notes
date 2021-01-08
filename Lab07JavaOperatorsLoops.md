@@ -54,5 +54,6 @@ var i = l; // set counter to 1
 - [Lab_05_Web_Pages_And_Structures](Lab05WebPagesAndStructures.md)
 - [Lab_06_Activate_Webpages_With_Java](Lab06ActivateWebPageWithJava.md)
 - [Lab_06B_Computers_Architect](Lab06BComputersArchitect.md)
+- [Link_to_GitHub](https://github.com/)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
