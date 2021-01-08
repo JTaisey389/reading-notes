@@ -46,3 +46,12 @@ var i = l; // set counter to 1
 	 i++;
 	}
 	document.getElementById('answer').innerHTML = msq;
+
+### Table of Contents
+- [Lab_02_Coders_Computer](Lab02CodersComputer.md)
+- [Lab_03_Revisions_In_The_Cloud](Lab03RevisionsInTheCloud.md)
+- [Lab_05_Web_Pages_And_Structures](Lab05WebPagesAndStructures.md)
+- [Lab_06_Activate_Webpages_With_Java](Lab06ActivateWebPageWithJava.md)
+- [Lab_06B_Computers_Architect](Lab06BComputersArchitect.md)
+
+[<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)

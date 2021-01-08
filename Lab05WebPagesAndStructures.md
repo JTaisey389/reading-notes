@@ -148,5 +148,6 @@ The body contains all of the content 
 - [Lab_03_Revisions_In_The_Cloud](Lab03RevisionsInTheCloud.md)
 - [Lab_06_Activate_Webpages_With_Java](Lab06ActivateWebPageWithJava.md)
 - [Lab_06B_Computers_Architect](Lab06BComputersArchitect.md)
+- [Lab_07_Java_Operators_Loops](Lab07JavaOperatorsLoops.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)

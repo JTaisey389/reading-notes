@@ -65,5 +65,6 @@ From steps to code:
 - [Lab_03_Revisions_In_The_Cloud](Lab03RevisionsInTheCloud.md)
 - [Lab_05_Web_Pages_And_Structures](Lab05WebPagesAndStructures.md)
 - [Lab_06B_Computers_Architect](Lab06BComputersArchitect.md)
+- [Lab_07_Java_Operators_Loops](Lab07JavaOperatorsLoops.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)

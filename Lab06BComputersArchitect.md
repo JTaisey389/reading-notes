@@ -64,7 +64,7 @@ When you look into a computer you see the hardware that makes up the computer. W
 - [Lab_03_Revisions_In_The_Cloud](Lab03RevisionsInTheCloud.md)
 - [Lab_05_Web_Pages_And_Structures](Lab05WebPagesAndStructures.md)
 - [Lab_06_Activate_Webpages_With_Java](Lab06ActivateWebPageWithJava.md)
-
+- [Lab_07_Java_Operators_Loops](Lab07JavaOperatorsLoops.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
 
