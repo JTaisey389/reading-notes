@@ -33,10 +33,9 @@ Here is a list of mac specific applications that I may use depending on the soft
 - CP: Copy
 
 ### Table of Contents
-- [Code_102_Refrence_Markdown](class102.md)
-- [Revisions_In_The_Cloud](RevisionsInTheCloud.md)
-- [Webpages_Structures_and_Charicteristics](webpagestructures.md)
-- [Computers_Architect](ComputerArchitect.md)
-- [Java_Interactions](JavaInteractive.md)
+- [Lab_03_Revisions_In_The_Cloud](Lab03RevisionsInTheCloud.md)
+- [Lab_05_Web_Pages_And_Structures](Lab05WebPagesAndStructures.md)
+- [Lab_06_Activate_Webpages_With_Java](Lab06ActivateWebPageWithJava.md)
+- [Lab_06B_Computers_Architect](Lab06BComputersArchitect.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)

@@ -61,10 +61,9 @@ From steps to code:
 -Syntax: How you would put those words together to create the set of instructions computers can follow.
 
 ### Table of Contents
-- [Coders_Computer Markdown](coderscomputer.md)
-- [Revisions_In_The_Cloud](RevisionsInTheCloud.md)
-- [Webpages_Structures_and_Charicteristics](webpagestructures.md)
-- [Computers_Architect](computerarchitect.md)
-- [Java_Interactions](JavaInteractive.md)
+- [Lab_02_Coders_Computer](Lab02CodersComputer.md)
+- [Lab_03_Revisions_In_The_Cloud](Lab03RevisionsInTheCloud.md)
+- [Lab_05_Web_Pages_And_Structures](Lab05WebPagesAndStructures.md)
+- [Lab_06B_Computers_Architect](Lab06BComputersArchitect.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)

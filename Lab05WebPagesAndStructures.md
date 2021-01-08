@@ -144,9 +144,9 @@ The body contains all of the content 
 * ÷ Divide Sign
 
 ### Table of Contents
-- [Code_102_Refrence_Markdown](class102.md)
-- [Coders_Computer Markdown](coderscomputer.md)
-- [Revisions_In_The_Cloud](RevisionsInTheCloud.md)
-- [Computers_Architect](computerarchitect.md)
+- [Lab_02_Coders_Computer](Lab02CodersComputer.md)
+- [Lab_03_Revisions_In_The_Cloud](Lab03RevisionsInTheCloud.md)
+- [Lab_06_Activate_Webpages_With_Java](Lab06ActivateWebPageWithJava.md)
+- [Lab_06B_Computers_Architect](Lab06BComputersArchitect.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)

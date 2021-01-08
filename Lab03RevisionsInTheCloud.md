@@ -47,10 +47,9 @@ RM command:
 - RM stands for remove file
 
 ### Table of Contents
-- [Code_102_Refrence_Markdown](class102.md)
-- [Coders_Computer Markdown](coderscomputer.md)
-- [Webpages_Structures_and_Charicteristics](webpagestructures.md)
-- [Computers_Architect](ComputerArchitect.md)
-- [Java_Interactions](JavaInteractive.md)
+- [Lab_02_Coders_Computer](Lab02CodersComputer.md)
+- [Lab_05_Web_Pages_And_Structures](Lab05WebPagesAndStructures.md)
+- [Lab_06_Activate_Webpages_With_Java](Lab06ActivateWebPageWithJava.md)
+- [Lab_06B_Computers_Architect](Lab06BComputersArchitect.md)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
