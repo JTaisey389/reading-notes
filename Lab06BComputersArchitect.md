@@ -69,7 +69,7 @@ When you look into a computer you see the hardware that makes up the computer. W
 - [Link_to_GitHub](https://github.com/)
 
 ### Link to Code 201
-- [Reading Notes 201](https://github.com/JTaisey389/reading-notes201.md.git)
+- [Reading Notes 201](https://jtaisey389.github.io/reading-notes201.md/)
 
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
 
