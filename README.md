@@ -35,3 +35,6 @@ What does the Growth Mindset mean to me?
 
 ### Link to Code 201
 - [Reading Notes 201](https://jtaisey389.github.io/reading-notes201.md/)
+
+### Link to Code 301
+- [Reading Notes 301](jtaisey389.github.io/reading-notes301.md/)
