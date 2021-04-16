@@ -59,4 +59,10 @@ var i = l; // set counter to 1
 ### Link to Code 201
 - [Reading Notes 201](https://jtaisey389.github.io/reading-notes201.md/)
 
+### Link to Code 301
+- [Reading Notes 301](jtaisey389.github.io/reading-notes301.md/)
+
+### Link to Code 401
+- [Reading Notes 401](jtaisey389.github.io/401_readingnotes.md/)
+
 [<== Back_to_reading_notes](https://jtaisey389.github.io/reading-notes/)
