@@ -8,6 +8,9 @@ This website is a collection of the notes and findings for the Code 102 Class.
 My name is Jason Taisey and I am a born and raised native to Washington State, and I have a passion for Gardening.
 <br> Here is a link to my Github Profile - https://github.com/JTaisey389
 
+### Version
+5.6.2
+
 ### Growth Mindest
 What does the Growth Mindset mean to me? 
 <br> <br>A growth mindset for myself is like problem-solving. When you a problem solving you are asking yourself what ways can you go about looking for the solution. While looking for that solution, you focus on different paths that can potentially lead to the correct or sometimes incorrect solution. In that time of focus, you are allowing your mind to explore different possibilities of the outcome. For me, that is what I define as a quintessential growth mindset, and allows me to remain flexible in the moment.
